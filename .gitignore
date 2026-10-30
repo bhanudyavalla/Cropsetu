@@ -1,0 +1,5 @@
+db.php
+uploads/*
+!uploads/.gitkeep
+.env
+*.log

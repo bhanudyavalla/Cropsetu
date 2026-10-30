@@ -1,0 +1,4 @@
+<?php
+echo "<h1>Welcome to CropSetu Management System</h1";
+echo "<p>Project Started Sucessfully</p>";
+?>
